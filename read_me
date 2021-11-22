@@ -1,0 +1,6 @@
+READ ME file for journal paper code
+
+Place the .npy files in the "data" folder in an appropriate folder.
+
+The Jupyter Notebooks in the "code" folder need changes in only two places in each Notebook.
+They need the new path of wherever the .npy files are stored. These locations have comments indicating the same.
